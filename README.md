@@ -1,3 +1,3 @@
-# daeapp
+daeapp for digital audio effects
 
-This is daeapp v1.0.
+version v1.0.
