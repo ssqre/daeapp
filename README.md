@@ -1,6 +1,8 @@
 daeapp for digital audio effects
 
 version v1.0.
+daeapp: for Linux
+daeapp.exe: for Windows
 
 Usage:
 
